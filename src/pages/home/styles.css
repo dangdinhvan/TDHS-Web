@@ -1,0 +1,38 @@
+.home__gif {
+	height: 286px;
+	width: 100%;
+	background-image: url('../../assets/images/fire.gif'), url('../../assets/images/person-1.gif'),
+		url('../../assets/images/person-2.gif'), url('../../assets/images/person-3.gif'),
+		url('../../assets/images/person-4.gif'), url('../../assets/images/person-5.gif'),
+		url('../../assets/images/home-bg.png');
+	background-position: 50% 78%, 25% 89%, 30% 64%, 50% 48%, 70% 64%, 75% 89%, 35% 0;
+	background-repeat: no-repeat, no-repeat, no-repeat;
+}
+
+.home__download {
+	display: flex;
+	justify-content: center;
+	margin: auto;
+	flex-wrap: wrap;
+	width: fit-content;
+	gap: 7.5px;
+}
+
+.home__download__item {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 11px;
+	font-size: 9px;
+	color: #ad4105;
+	text-align: center;
+}
+
+.home__download__item img {
+	height: 40px;
+	max-width: 99%;
+}
+
+.home__download__item__text > p:first-child {
+	color: rgb(209, 9, 50);
+}

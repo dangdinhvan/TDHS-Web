@@ -1,0 +1,17 @@
+.ranking h3 {
+	margin: 8px 0 16px;
+}
+
+.ranking table {
+	margin: 20px 0;
+}
+
+.ranking th {
+	padding: 4px 0;
+}
+
+.ranking td {
+	background: #e0ad50;
+	color: #561d09;
+	padding: 4px 0;
+}

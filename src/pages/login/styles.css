@@ -1,0 +1,15 @@
+.login-item {
+	display: flex;
+	gap: 12px;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.login-item span {
+	display: inline-block;
+	width: 104px;
+}
+
+.login-button {
+	margin-top: 20px;
+}

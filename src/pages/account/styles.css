@@ -1,0 +1,10 @@
+.account {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 28px;
+}
+
+.account_name button {
+	margin-left: 10px;
+}

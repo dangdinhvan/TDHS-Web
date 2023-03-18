@@ -1,0 +1,18 @@
+.momo-recharge__table {
+	border: 2px solid #b3adad;
+}
+
+.momo-recharge__table td {
+	border: 2px solid #b3adad;
+	padding: 12px 6px;
+	background: #eee5cd;
+	color: #222;
+}
+
+.momo-recharge hr{
+	margin: 12px 0;
+}
+
+.momo-recharge p{
+	margin: 6px 0;
+}

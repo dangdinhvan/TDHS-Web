@@ -1,0 +1,24 @@
+.register-item {
+	display: flex;
+	gap: 12px;
+	align-items: center;
+	margin-bottom: 10px;
+}
+
+.register-item span {
+	display: inline-block;
+	width: 104px;
+}
+
+.register-password-2 {
+	position: relative;
+}
+
+.register-password-2 p {
+	position: absolute;
+	top: 125%;
+}
+
+.register-button {
+	margin-top: 20px;
+}
