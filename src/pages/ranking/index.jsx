@@ -29,7 +29,7 @@ function Ranking() {
 					<label>Bộ lọc</label>
 					<select style={{ marginLeft: '12px' }} onChange={e => setRankType(e.target.value)}>
 						<option value='topLevel'>Top level</option>
-						<option value='topPay'>Top nạp ngọc</option>
+						<option value='topPay'>Top nạp coin</option>
 					</select>
 				</div>
 				{loading ? (
@@ -39,8 +39,8 @@ function Ranking() {
 						<thead>
 							<tr>
 								<th>STT</th>
-								<th>Tên nhân vật</th>
-								<th>{rankType === 'topLevel' ? 'Cấp độ' : 'Nạp ngọc'}</th>
+								<th>Tài khoản</th>
+								<th>{rankType === 'topLevel' ? 'Cấp độ' : 'Nạp Coin'}</th>
 							</tr>
 						</thead>
 						<tbody>
