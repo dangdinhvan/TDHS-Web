@@ -1,6 +1,8 @@
 import './styles.css';
+import { useSelector } from 'react-redux';
 
 function MomoRecharge({ isMomo = true }) {
+	const userInfo = useSelector((state) => state.user.userInfo);
 	return (
 		<div className='content-frame'>
 			<div className='momo-recharge'>
@@ -12,15 +14,15 @@ function MomoRecharge({ isMomo = true }) {
 					</tr>
 					<tr>
 						<td>Nội dung chuyển khoản:</td>
-						<td>user nạp ngọc</td>
+						<td>{userInfo.user}</td>
 					</tr>
 					<tr>
 						<td> {isMomo ? 'Số điện thoại nhận tiền:' : 'Số tài khoản nhận tiền:'}</td>
-						<td>123456</td>
+						<td>0963225935</td>
 					</tr>
 					<tr>
 						<td>Chủ tài khoản:</td>
-						<td>admin</td>
+						<td>Phan Thị Ngọc Huyền</td>
 					</tr>
 				</table>
 				<hr />
