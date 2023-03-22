@@ -2,7 +2,8 @@ import './styles.css';
 import { useSelector } from 'react-redux';
 
 function MomoRecharge({ isMomo = true }) {
-	const userInfo = useSelector((state) => state.user.userInfo);
+	const userInfo = useSelector(state => state.auth.userInfo);
+
 	return (
 		<div className='content-frame'>
 			<div className='momo-recharge'>
