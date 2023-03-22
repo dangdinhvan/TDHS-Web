@@ -10,7 +10,7 @@ function MomoRecharge({ isMomo = true }) {
 				<table className='momo-recharge__table'>
 					<tr>
 						<td colSpan={2} style={{ fontWeight: '700' }}>
-							{isMomo ? 'Nạp ngọc qua momo' : 'Nạp ngọc qua internet banking'}
+							{isMomo ? 'Nạp coin qua momo' : 'Nạp coin qua internet banking'}
 						</td>
 					</tr>
 					<tr>

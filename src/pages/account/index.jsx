@@ -50,7 +50,7 @@ function Account() {
 									<span>|</span>
 								</>
 							)}
-							<button onClick={handleRecharge}>Nạp ngọc</button>
+							<button onClick={handleRecharge}>Nạp coin</button>
 							<span>|</span>
 							<button onClick={() => navigate('/change-password')}>Đổi mật khẩu</button>
 							<span>|</span>
@@ -59,7 +59,7 @@ function Account() {
 							<button onClick={() => window.open('http://hsraze.xyz/')}>Đi đến Webshop</button>
 						</>
 					) : (
-						<button onClick={handleRecharge}>Nạp ngọc</button>
+						<button onClick={handleRecharge}>Nạp coin</button>
 					)}
 				</div>
 			</div>

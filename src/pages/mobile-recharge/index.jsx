@@ -42,7 +42,7 @@ function MobileRecharge() {
 		<div className='content-frame'>
 			{loading && <div className='mobile-recharge__loading'>Đang xử lý...</div>}
 			<div className='mobile-recharge'>
-				<h3 style={{ textAlign: 'center' }}>Nạp ngọc bằng thẻ điện thoại</h3>
+				<h3 style={{ textAlign: 'center' }}>Nạp coin bằng thẻ điện thoại</h3>
 				<div className='mobile-recharge__label'>Nhà mạng:</div>
 				<select onChange={e => setTelco(e.target.value)}>
 					<option value=''>----- Chọn nhà mạng -----</option>
