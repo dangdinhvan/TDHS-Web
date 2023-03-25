@@ -40,7 +40,7 @@ function Home() {
 						</div>
 					</div>
 					<div className='home__download__item'>
-						<a href='http://dl.teamobi.com/drive/get/mF' target={'_blank'}>
+						<a href='https://www.mediafire.com/file/s8ebzc6n81k37ue/HsRaze.apk/file?dkey=fq0tihuaw7q&r=168' target={'_blank'}>
 							<img src={apkPng} />
 						</a>
 						<div className='home__download__item__text'>
@@ -61,7 +61,7 @@ function Home() {
 						</div>
 					</div> */}
 					<div className='home__download__item'>
-						<a href='http://dl.teamobi.com/drive/get/ll' target={'_blank'}>
+						<a href='https://www.mediafire.com/file/9l69sxmrbs2d1wl/HSORAZE.rar/file?dkey=nrkgj8oa81j&r=1828' target={'_blank'}>
 							<img src={pcPng} />
 						</a>
 						<div className='home__download__item__text'>
@@ -70,7 +70,7 @@ function Home() {
 						</div>
 					</div>
 					<div className='home__download__item'>
-						<a href='https://testflight.apple.com/join/bOzxqdei' target={'_blank'}>
+						<a href='https://www.mediafire.com/file/0ut3eqcxkfye1g2/HSO%20RAZE.ipa?dkey=d4t28ocmstg&r=1544' target={'_blank'}>
 							<img src={ipPng} />
 						</a>
 						<div className='home__download__item__text'>
