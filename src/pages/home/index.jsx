@@ -31,7 +31,7 @@ function Home() {
 			<div className='content-frame'>
 				<div className='home__download'>
 					<div className='home__download__item'>
-						<a href='http://wap.teamobi.com/game/jar/116/4' target={'_blank'}>
+						<a href='https://www.mediafire.com/file/3mc684h2zh9o76k/Hi%E1%BB%87p+S%C4%A9+raze.jar?dkey=rm6tm0jim4m&r=283' target={'_blank'}>
 							<img src={javaPng} />
 						</a>
 						<div className='home__download__item__text'>
@@ -48,7 +48,7 @@ function Home() {
 							<p>Hướng dẫn cài</p>
 						</div>
 					</div>
-					<div className='home__download__item'>
+					{/* <div className='home__download__item'>
 						<a
 							href='https://play.google.com/store/apps/details?id=com.silverbat.knightage'
 							target={'_blank'}
@@ -59,7 +59,7 @@ function Home() {
 							<p>250</p>
 							<p></p>
 						</div>
-					</div>
+					</div> */}
 					<div className='home__download__item'>
 						<a href='http://dl.teamobi.com/drive/get/ll' target={'_blank'}>
 							<img src={pcPng} />
