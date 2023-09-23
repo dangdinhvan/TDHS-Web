@@ -31,7 +31,7 @@ function Home() {
 			<div className='content-frame'>
 				<div className='home__download'>
 					<div className='home__download__item'>
-						<a href='https://www.mediafire.com/file/3mc684h2zh9o76k/Hi%E1%BB%87p+S%C4%A9+raze.jar?dkey=rm6tm0jim4m&r=283' target={'_blank'}>
+						<a href='https://www.mediafire.com/file/n73jv332aazung5/HSOTIHON_%25282%2529.jar/file' target={'_blank'}>
 							<img src={javaPng} />
 						</a>
 						<div className='home__download__item__text'>
@@ -40,7 +40,7 @@ function Home() {
 						</div>
 					</div>
 					<div className='home__download__item'>
-						<a href='https://www.mediafire.com/file/s8ebzc6n81k37ue/HsRaze.apk/file?dkey=fq0tihuaw7q&r=168' target={'_blank'}>
+						<a href='https://www.mediafire.com/file/wbytfswy290k2zv/Hi%25E1%25BB%2587p_s%25C4%25A9_t%25C3%25AD_hon.apk/file' target={'_blank'}>
 							<img src={apkPng} />
 						</a>
 						<div className='home__download__item__text'>
@@ -61,7 +61,7 @@ function Home() {
 						</div>
 					</div> */}
 					<div className='home__download__item'>
-						<a href='https://www.mediafire.com/file/9l69sxmrbs2d1wl/HSORAZE.rar/file?dkey=nrkgj8oa81j&r=1828' target={'_blank'}>
+						<a href='https://www.mediafire.com/file/r9cjl8ivjm4mli1/Hi%25E1%25BB%2587p_S%25C4%25A9_T%25C3%25AD_Hon.rar/file' target={'_blank'}>
 							<img src={pcPng} />
 						</a>
 						<div className='home__download__item__text'>
@@ -70,7 +70,7 @@ function Home() {
 						</div>
 					</div>
 					<div className='home__download__item'>
-						<a href='https://www.mediafire.com/file/0ut3eqcxkfye1g2/HSO%20RAZE.ipa?dkey=d4t28ocmstg&r=1544' target={'_blank'}>
+						<a href='https://www.mediafire.com/file/m8ufyo4gol7xk9b/Payload.ipa/file' target={'_blank'}>
 							<img src={ipPng} />
 						</a>
 						<div className='home__download__item__text'>
