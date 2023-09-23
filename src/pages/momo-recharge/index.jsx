@@ -19,11 +19,11 @@ function MomoRecharge({ isMomo = true }) {
 					</tr>
 					<tr>
 						<td> {isMomo ? 'Số điện thoại nhận tiền:' : 'Số tài khoản nhận tiền:'}</td>
-						<td>0963225935</td>
+						<td>0338218534</td>
 					</tr>
 					<tr>
 						<td>Chủ tài khoản:</td>
-						<td>Phan Thị Ngọc Huyền</td>
+						<td>Lê Thị Thanh Hoa</td>
 					</tr>
 				</table>
 				<hr />

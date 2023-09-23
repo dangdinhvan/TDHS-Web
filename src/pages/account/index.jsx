@@ -56,7 +56,7 @@ function Account() {
 							<span>|</span>
 							<button onClick={handleLogout}>Đăng xuất</button>
 							<span>|</span>
-							<button onClick={() => window.open('http://hsraze.xyz/')}>Đi đến Webshop</button>
+							<button onClick={() => window.open('http://hiepsitihon.fun/')}>Đi đến Webshop</button>
 						</>
 					) : (
 						<button onClick={handleRecharge}>Nạp coin</button>
